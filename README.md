@@ -1,116 +1,93 @@
-<h1 align="center">Hi 👋, I'm Rahul A K</h1>
-<h3 align="center">Computer Science Student | Developer | Problem Solver</h3>
+<div align="center">
+
+# ⚡ Rahul A K
+
+### 👨‍💻 Full Stack Developer | Computer Science Student | Tech Enthusiast
 
 <p align="center">
-<a href="https://rahul424213w.github.io/My-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome"/>
-</a>
-
-<a href="https://github.com/Rahul424213w">
-<img src="https://img.shields.io/github/followers/Rahul424213w?style=for-the-badge"/>
-</a>
+  <img src="https://img.shields.io/badge/Status-Building_Real_World_Projects-7aa2f7?style=flat-square&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-India-9ece6a?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Rahul424213w&label=PROFILE%20VIEWS&color=263171&style=flat-square" />
 </p>
-
----
-
-# 👨‍💻 About Me
-
-- 🎓 Computer Science Engineering Student  
-- 🚀 Passionate about **building real-world tech projects**
-- 💻 Interested in **Web Development, AI, and System Design**
-- 📚 Currently learning **DSA & advanced development**
-- 🌐 Portfolio:  
-👉 **https://rahul424213w.github.io/My-Portfolio/**
-
----
-
-# 🚀 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c" />
-</p>
-
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,firebase,mongodb" />
-</p>
-
----
-
-# 📂 Featured Projects
-
-### 🚍 College Bus Tracking System
-Real-time bus location tracking system using maps and ETA prediction.
-
-### 🌐 Personal Portfolio Website
-Responsive developer portfolio showcasing projects and skills.
-
-### 🔎 TruthLens
-Project focused on analyzing information credibility.
-
-### 🧠 Hackathon Projects
-Multiple innovative solutions developed during hackathons.
-
-➡️ View all projects here:  
-**https://rahul424213w.github.io/My-Portfolio/**
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rahul424213w&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul424213w&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Rahul424213w&theme=tokyonight" />
-</p>
-
----
-
-# 🌍 Connect With Me
-
-<p>
-
-<a href="https://rahul424213w.github.io/My-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Rahul424213w">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-> I love turning ideas into real working projects 🚀
 
 ---
 
 <p align="center">
-⭐ If you like my projects, consider giving them a star!
+  <a href="https://rahul424213w.github.io/My-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Rahul424213w">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
+
+</div>
+
+---
+
+## 🖋️ Professional Profile
+
+* 🎓 **Identity:** Computer Science Engineering student passionate about building practical software.
+* 🚀 **Development:** Building modern web applications and real-world tech projects.
+* 🧠 **Learning:** Currently studying **Data Structures & Algorithms** and backend development.
+* 🛠️ **Projects:** Developing tools like **College Bus Tracking System** and **TruthLens**.
+* 💬 **Ask me about:** JavaScript, web development, and project-based learning.
+
+---
+
+## 🧬 Technical Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,react,nodejs,express,mongodb,firebase,git,github,linux,vscode&theme=dark&perline=8" />
+
+</div>
+
+---
+
+## 📊 Performance Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rahul424213w&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175"/>
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul424213w&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=Rahul424213w&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
+
+</div>
+
+---
+
+## 🛠️ Featured Projects
+
+| Project                         | Core Tech                      | Description                                                   |
+| :------------------------------ | :----------------------------- | :------------------------------------------------------------ |
+| **College Bus Tracking System** | `JavaScript` `Maps API` `HTML` | Real-time system to track buses and estimate arrival times.   |
+| **TruthLens**                   | `Web Application`              | Tool designed to analyze credibility of online information.   |
+| **Developer Portfolio**         | `HTML` `CSS` `JavaScript`      | Personal website showcasing projects, skills, and experience. |
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Code-Clean-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Learning-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Goal-Building_Impactful_Software-purple?style=flat-square"/>
+
+</div>
