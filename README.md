@@ -71,23 +71,3 @@
 <img src="https://streak-stats.demolab.com?user=Rahul424213w&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
 
 </div>
-
----
-
-## 🛠️ Featured Projects
-
-| Project                         | Core Tech                      | Description                                                   |
-| :------------------------------ | :----------------------------- | :------------------------------------------------------------ |
-| **College Bus Tracking System** | `JavaScript` `Maps API` `HTML` | Real-time system to track buses and estimate arrival times.   |
-| **TruthLens**                   | `Web Application`              | Tool designed to analyze credibility of online information.   |
-| **Developer Portfolio**         | `HTML` `CSS` `JavaScript`      | Personal website showcasing projects, skills, and experience. |
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Code-Clean-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Learning-green?style=flat-square"/>
-<img src="https://img.shields.io/badge/Goal-Building_Impactful_Software-purple?style=flat-square"/>
-
-</div>
