@@ -33,7 +33,6 @@
 * 🎓 **Identity:** Computer Science Engineering student passionate about building practical software.
 * 🚀 **Development:** Building modern web applications and real-world tech projects.
 * 🧠 **Learning:** Currently studying **Data Structures & Algorithms** and backend development.
-* 🛠️ **Projects:** Developing tools like **College Bus Tracking System** and **TruthLens**.
 * 💬 **Ask me about:** JavaScript, web development, and project-based learning.
 
 ---
@@ -52,22 +51,12 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul424213w&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rahul424213w&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul424213w&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</td>
+<br>
 
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul424213w&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://streak-stats.demolab.com?user=Rahul424213w&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
+<img height="160" src="https://streak-stats.demolab.com?user=Rahul424213w&theme=tokyonight&hide_border=true"/>
 
 </div>
