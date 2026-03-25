@@ -51,12 +51,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul424213w&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul424213w&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul424213w&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul424213w&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <br>
 
-<img height="160" src="https://streak-stats.demolab.com?user=Rahul424213w&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Rahul424213w&theme=tokyonight&hide_border=true"/>
 
 </div>
